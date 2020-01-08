@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://imgur.com/lFXQR5J" group-title="TEMPORADA 1",EPISODIO 1
+http://load.kudaplay.tv/aovivo/HD_A_FAZENDA/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
