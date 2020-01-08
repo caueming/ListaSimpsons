@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 1",EPISODIO 1
-http://load.kudaplay.tv/aovivo/HD_A_FAZENDA/video.m3u8?token=52e729273237acc2601ff7dcc4f43aaf
+http://us13.server.kkwhiskey.xyz/vod/serie/Os_Simpsons/7475.mp4/tracks-v1a1/mono.m3u8?token=3a441f0b0cabb39bf184611d70bd73ac
