@@ -1,0 +1,79 @@
+#EXTM3U
+
+
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 1",EPISODIO 01
+http://us13.server.kkwhiskey.xyz/vod/serie/Os_Simpsons/7475.mp4/tracks-v1a1/mono.m3u8?token=3a441f0b0cabb39bf184611d70bd73ac
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 1",EPISODIO 02
+http://us13.server.kudaalpha.com/vod/serie/Os_Simpsons/7476.mp4/tracks-v1a1/mono.m3u8?token=3a441f0b0cabb39bf184611d70bd73ac
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 1",EPISODIO 03
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST01EP03.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 1",EPISODIO 04
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST01EP04.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 1",EPISODIO 05
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST01EP05.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 1",EPISODIO 06
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST01EP06.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 1",EPISODIO 07
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST01EP07.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 1",EPISODIO 08
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST01EP08.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 1",EPISODIO 09
+http://us13.server.knovember.live/vod/serie/Os_Simpsons/7483.mp4/tracks-v1a1/mono.m3u8?token=3a441f0b0cabb39bf184611d70bd73ac
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 1",EPISODIO 10
+http://us13.server.kcharlie.live/vod/serie/Os_Simpsons/7484.mp4/tracks-v1a1/mono.m3u8?token=3a441f0b0cabb39bf184611d70bd73ac
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 1",EPISODIO 11
+http://ge2.server.kudabeta.live/vod/serie/Os_Simpsons/7485.mp4/tracks-v1a1/mono.m3u8?token=3a441f0b0cabb39bf184611d70bd73ac
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 1",EPISODIO 12
+http://us13.server.kkx-ray.xyz/vod/serie/Os_Simpsons/7486.mp4/tracks-v1a1/mono.m3u8?token=3a441f0b0cabb39bf184611d70bd73ac
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 1",EPISODIO 13
+http://us13.server.kkwhiskey.xyz/vod/serie/Os_Simpsons/7487.mp4/tracks-v1a1/mono.m3u8?token=3a441f0b0cabb39bf184611d70bd73ac
+
+
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 01
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP01.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 02
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP02.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 03
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP03.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 04
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP04.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 05
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP05.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 06
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP06.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 07
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP07.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 08
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP08.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 09
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP09.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 10
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP10.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 11
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP11.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 12
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP12.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 13
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP13.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 14
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP14.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 15
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP15.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 16
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP16.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 17
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP17.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 18
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP18.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 19
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP19.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 20
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP20.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 21
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP21.mp4?attachment=true
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 2",EPISODIO 22
+https://server3a.amilpublicidades.com/RCServer01/videos/OSMPST02EP22.mp4?attachment=true
+
+
+#EXTINF:-1 type="stream" tvg-id="simpsons" tvg-logo="https://i.imgur.com/lFXQR5J.png" group-title="TEMPORADA 3",EPISODIO 01-
+
